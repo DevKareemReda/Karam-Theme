@@ -1,0 +1,44 @@
+{
+  "name": "karam",
+  "displayName": "Kareem Reda",
+  "description": "A modern and elegant theme for VS Code, designed with developers in mind.",
+  "publisher": "KaramTheme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DevKareemReda/Karam-Theme"
+  },
+  "bugs": {
+  "url": "https://github.com/DevKareemReda/Karam-Theme/issues"
+},
+"homepage": "https://github.com/DevKareemReda/Karam-Theme#readme",
+  "keywords": [
+    "Karam",
+    "Dark Theme",
+    "Modern",
+    "Colorful",
+    "Minimalist",
+    "Elegant",
+    "Developer Friendly",
+    "High Contrast",
+    "Readable Code",
+    "Coding",
+    "Productivity"
+  ],
+  "version": "0.0.1",
+  "customID": "KaramTheme",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "karam",
+        "uiTheme": "vs-dark",
+        "path": "./themes/karam-color-theme.json"
+      }
+    ]
+  }
+}
