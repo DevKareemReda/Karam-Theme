@@ -1,19 +1,3 @@
-# karam-theme README
-
-## Working with Markdown
-
-### Kareem Reda Elkassas
-
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-Here's a suggested description for your "Karam Theme Darker" theme in the `README.md`:
-
----
-
 # Karam Theme Darker
 
 **Karam Theme Darker** is a sleek, modern dark theme for Visual Studio Code designed for developers who love a clean, distraction-free coding environment. With its rich, deep color palette and carefully balanced contrast, this theme enhances readability while reducing eye strain during long coding sessions.
