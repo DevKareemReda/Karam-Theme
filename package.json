@@ -1,6 +1,6 @@
 {
   "name": "karam",
-  "displayName": "Kareem Reda",
+  "displayName": "Karam Theme Darker",
   "description": "A modern and elegant theme for VS Code, designed with developers in mind.",
   "publisher": "KaramTheme",
   "repository": {
@@ -24,7 +24,7 @@
     "Coding",
     "Productivity"
   ],
-  "version": "0.0.1",
+  "version": "1.1.1",
   "customID": "KaramTheme",
   "engines": {
     "vscode": "^1.94.0"
@@ -40,5 +40,6 @@
         "path": "./themes/karam-color-theme.json"
       }
     ]
-  }
+  },
+  "icon": "images/karam.png"
 }
