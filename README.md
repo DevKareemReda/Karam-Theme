@@ -45,10 +45,6 @@ For users who like to tweak their environment, this theme provides easy customiz
 
 Feel free to open an issue on the [GitHub repository](https://github.com/your-username/your-repository-name) if you find any bugs or have suggestions to improve the theme.
 
----
-
-This description provides a clear overview of your theme, highlights its strengths, and includes instructions for installation, making it user-friendly and appealing. Make sure to update the GitHub URL and image path with your actual details!
-
 * [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
