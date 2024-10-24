@@ -1,19 +1,3 @@
-# karam-theme README
-
-## Working with Markdown
-
-### Kareem Reda Elkassas
-
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-Here's a suggested description for your "Karam Theme Darker" theme in the `README.md`:
-
----
-
 # Karam Theme Darker
 
 **Karam Theme Darker** is a sleek, modern dark theme for Visual Studio Code designed for developers who love a clean, distraction-free coding environment. With its rich, deep color palette and carefully balanced contrast, this theme enhances readability while reducing eye strain during long coding sessions.
@@ -37,14 +21,25 @@ Here's a suggested description for your "Karam Theme Darker" theme in the `READM
 3. Click **Install** to install the theme.
 4. Go to **Preferences > Color Theme** and select **Karam Theme Darker**.
 
+- [Marketplace](https://marketplace.visualstudio.com/items?itemName=KaramTheme.karam)
+
 ## Customization
 
 For users who like to tweak their environment, this theme provides easy customization options. Modify the theme settings to match your personal style by adjusting font, spacing, or other visual elements.
 
 ## Feedback
 
+<<<<<<< HEAD
 Feel free to open an issue on the [GitHub repository](https://github.com/your-username/your-repository-name) if you find any bugs or have suggestions to improve the theme.
 
+=======
+Feel free to open an issue on the [GitHub repository](https://github.com/DevKareemReda/Karam-Theme) if you find any bugs or have suggestions to improve the theme.
+
+## Author
+### Kareem Reda
+- [LinkedIn](https://www.linkedin.com/in/kareem-el-kassas/)
+-------------------------------------------------------------------------------------------------------------------
+>>>>>>> 603925812f073410c452798e186b0137611e711b
 * [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
